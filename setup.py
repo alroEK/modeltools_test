@@ -15,6 +15,6 @@ setup(name='modeltools',
       author_email='alro@nve.no',
       license='GPLv3',
       zip_safe=False,
-      py_modules = ['thema'],
+      packages = ['thema'],
 )
 
